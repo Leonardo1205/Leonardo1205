@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Leonardo Henrique Reitz 👋
 
-<!--
-**Leonardo1205/Leonardo1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer, currently studying Software Engineering at [CatolicaSC](https://www.catolicasc.org.br/).
 
-Here are some ideas to get you started:
+#### My current stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: `HTML5`, `CSS3`, `Javascript`
+- Layout Design: `Figma`
+- Version code control: `Git & Github`
+
+#### Contacts
+
+- Email: leonardoreitz0@gmail.com
+- Linkedin: https://www.linkedin.com/in/leonardo-reitz-723487244/
