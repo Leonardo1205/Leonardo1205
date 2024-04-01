@@ -2,11 +2,12 @@
 
 I'm a Full-Stack Developer, currently studying Software Engineering at [CatolicaSC](https://www.catolicasc.org.br/).
 
-#### My current stack
+#### Current Stack
 
-- Frontend: `HTML5`, `CSS3`, `Javascript`
-- Layout Design: `Figma`
-- Version code control: `Git & Github`
+- JavaScipt
+- Python
+- Java
+- MySQL, Oracle
 
 #### Contacts
 
