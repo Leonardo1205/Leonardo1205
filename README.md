@@ -4,7 +4,7 @@ I'm a Full-Stack Developer, currently studying Software Engineering at [Catolica
 
 #### Current Stack
 
-- JavaScipt
+- JavaScript
 - Python
 - Java
 - MySQL, Oracle
