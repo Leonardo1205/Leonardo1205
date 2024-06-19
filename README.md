@@ -8,6 +8,7 @@ I'm a Full-Stack Developer, currently studying Software Engineering at [Catolica
 - React
 - HTML5
 - CSS3
+- And more...
 
 #### Contacts
 
