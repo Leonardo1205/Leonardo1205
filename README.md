@@ -6,6 +6,7 @@ I'm a Full-Stack Developer, currently studying Software Engineering at [Catolica
 
 - JavaScript
 - React
+- Nodejs
 - HTML5
 - CSS3
 - And more...
