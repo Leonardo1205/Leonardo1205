@@ -2,11 +2,11 @@
 
 I'm a Full-Stack Developer, currently studying Software Engineering at [CatolicaSC](https://www.catolicasc.org.br/).
 
-#### Current Stack
+#### Current knowledge
 
 - JavaScript
-- React
-- Nodejs
+- ReactJS
+- NodeJS
 - HTML5
 - CSS3
 - And more...
